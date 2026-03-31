@@ -11,3 +11,6 @@
 
 #### 4. NS-adamw-p=1-wd=0.1
 ![4](images/NS-adamw-p=1-wd=0.1.png)
+
+#### 5. NS-adamw-p=1_2-wd=0_04_nsIter
+![5](images/NS-adamw-p=1_2-wd=0_04_nsIter.png)
